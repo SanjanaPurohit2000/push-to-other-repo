@@ -10,5 +10,5 @@ Our first GitHub Action: Push commits from one repo to another
 #### `destination-repository-username` (argument) [optional]
 #### `target-branch` (argument) [optional]
 #### `API_TOKEN_GITHUB` (environment)
-E.g.:
+E.g.: 
   `API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}`
